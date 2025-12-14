@@ -3,5 +3,6 @@ class Main {
         System.out.print("Первое изменение в ветке dev");
         System.out.print("Второе изменение в ветке dev");
         System.out.print("Третье изменение в ветке dev");
+        System.out.print("Четвертое изменение в ветке dev");
     }
 }
